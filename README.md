@@ -12,13 +12,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/Preview.png">
+  <img alt="Projeto DevLinks" src="./Preview.png">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Tema escuro" src=".github/previewDark.png" width="100%">
+  <img alt="Tema escuro" src="./PreviewDark.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,4 +44,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+<<<<<<< HEAD
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+>>>>>>> e931934bddf57852730cd513493ebfb527eb61a2
