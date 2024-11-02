@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="./Preview.png">
+  <img alt="Projeto DevLinks" src="./Preview.png" width="100%">
 </p>
 
 <br>
